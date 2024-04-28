@@ -1,6 +1,8 @@
 
-Goal: Artwork that does not contain copyright logos, trake marks, ESRB (Unless part of the template)
-Some posters are not 100% clean.
+Goals
+ - Artwork that does not contain copyright logos, trake marks, ESRB (Unless part of the template) *Some posters are not 100% clean.
+ - High Resolution
+ - Cases uses the same template
 
 Software I Use
 - Photoshop
