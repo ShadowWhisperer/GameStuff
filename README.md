@@ -1,3 +1,7 @@
+Backup of art I use for emulation. Focused on posters. There are some fanart/background images. I don't use them, so I don't go out of my way looking for them.
+This project was started in ~2011.
+
+Save states - Skips game loading. (Commodore 64 is slow to load)
 
 Goals
  - Artwork that does not contain copyright logos, trake marks, ESRB (Unless part of the template) *Some posters are not 100% clean.
