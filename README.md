@@ -14,4 +14,6 @@ Software I Use
 - TinyPNG
 
 **Example**
-![ba](https://github.com/ShadowWhisperer/GameArt/assets/61057625/59a2ede3-5f89-4432-bed1-b96a1c0d4494)
+![ba](https://github.com/ShadowWhisperer/GameArt/assets/61057625/59a2ede3-5f89-4432-bed1-b96a1c0d4494)  
+  
+![example2](https://github.com/ShadowWhisperer/GameStuff/assets/61057625/65eb640e-4166-41e4-a104-e604ee630157)  
