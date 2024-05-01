@@ -11,7 +11,6 @@ Goals
 Software I Use
 - Photoshop
 - Topaz
-- TinyPNG
 
 **Example**
 ![ba](https://github.com/ShadowWhisperer/GameArt/assets/61057625/59a2ede3-5f89-4432-bed1-b96a1c0d4494)  
